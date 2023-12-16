@@ -2,9 +2,9 @@
 Hi, I'm  Julmer Olivero, I’m a Developer who use Frontend technologies and a bit of backend stacks to do what the most like, coding!.
 
 
-#### Normally I use this tools to work:
+#### Tools normally I use to work:
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)]()
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
+[![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=101010)]()
 [![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime%20text&logoColor=white&labelColor=101010)]()
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
@@ -20,7 +20,6 @@ Hi, I'm  Julmer Olivero, I’m a Developer who use Frontend technologies and a b
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
 [![PHP](https://img.shields.io/badge/PHP-8cf?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![GNU Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=white&labelColor=101010)]()
 
 #### Frameworks And Libraries:
