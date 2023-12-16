@@ -7,22 +7,12 @@ Hi, I'm  Julmer Olivero, I’m a Developer who use Frontend technologies and a b
 [![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=101010)]()
 [![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime%20text&logoColor=white&labelColor=101010)]()
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
-[![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white&labelColor=101010)]()
-[![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=101010)]()
+[![GitHub](https://img.shields.io/badge/GitHub-3884FF?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
+[![Warp](https://img.shields.io/badge/warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white&labelColor=101010)]()
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white&labelColor=101010)]()
-[![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white&labelColor=101010)]()
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white&labelColor=101010)]()
 
-#### Languages:
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![TypeScript](https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
-[![PHP](https://img.shields.io/badge/PHP-8cf?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
-[![GNU Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=white&labelColor=101010)]()
-
-#### Frameworks And Libraries:
+#### Frameworks and libraries I know and used:
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
 [![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white&labelColor=101010)]()
 [![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white&labelColor=101010)]()
@@ -42,38 +32,20 @@ Hi, I'm  Julmer Olivero, I’m a Developer who use Frontend technologies and a b
 [![D3.JS](https://img.shields.io/badge/D3.JS-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white&labelColor=101010)]()
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
 
-
-### Database Management
-[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=101010)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
-
-
-### Entertainment:
-[![Steam](https://img.shields.io/badge/Steam-000?style=for-the-badge&logo=steam&logoColor=white&labelColor=101010)]()
+#### Entertainment:
+[![Steam](https://img.shields.io/badge/Steam-004680?style=for-the-badge&logo=steam&logoColor=white&labelColor=101010)]()
+[![Fortnite](https://img.shields.io/badge/Fortnite-004680?style=for-the-badge&logo=epicgames&logoColor=white&labelColor=101010)]()
 [![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white&labelColor=101010)]()
-[![PS4](https://img.shields.io/badge/PS4-003791?style=for-the-badge&logo=playstation%204&logoColor=white&labelColor=101010)]()
-[![The Witcher 3](https://img.shields.io/badge/The_Witcher_3-DC0D15?style=for-the-badge&logo=cd%20projekt&logoColor=white&labelColor=101010)]()
-
-
-There are a large list of things I want, and I want to do/know and many languages and frameworks to learn, but here I put some, not all, maybe I'll update this list with frequency, but dunow yet.
-
-#### Languages or Frameworks I want to Learn:
-[![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white&labelColor=101010)]()
-[![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=101010)]()
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
-[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
-[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
+[![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white&labelColor=101010)]()
+[![PS5](https://img.shields.io/badge/PS5-003791?style=for-the-badge&logo=playstation&logoColor=white&labelColor=101010)]()
+[![XBOX](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white&labelColor=101010)]()
 
 #### I Want To Do/Know:
 [![Know Japan](https://img.shields.io/badge/Know_Japan-B41717?style=for-the-badge&logo=jinja&logoColor=white&labelColor=101010)]()
 [![Travel with my Family for the World](https://img.shields.io/badge/More_Travels-F79025?style=for-the-badge&logo=yourtraveldottv&logoColor=white&labelColor=101010)]()
 
 
-### Contact me:
+#### Contact me:
 <hr />
 
 #### Social Network:
